@@ -1,2 +1,2 @@
-# Aula_1_Gemeos_Digitais_UniFacens
-AULA 1 Capacitação Gemeos Digitais - UniFacens
+# Aulas_Gemeos_Digitais_UniFacens
+Aulas da Capacitação Gemeos Digitais - UniFacens
